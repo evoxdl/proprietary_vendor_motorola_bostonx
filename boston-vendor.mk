@@ -3609,6 +3609,10 @@ PRODUCT_PACKAGES += \
     libvidhance \
     vendor.goodix.hardware.biometrics.fingerprint@2.1 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
+    fm_helium \
+    libfm-hci \
+    vendor.qti.hardware.fm-V1-ndk \
+    vendor.qti.hardware.fm@1.0 \
     MotoSignatureApp \
     MotCamera3AI \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
