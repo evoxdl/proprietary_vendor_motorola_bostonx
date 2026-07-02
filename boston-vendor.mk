@@ -3484,6 +3484,8 @@ PRODUCT_PACKAGES += \
     camx.provider@2.5-legacy \
     camx.provider@2.6-legacy \
     camx.provider@2.7-legacy \
+    com.anc.fingerprint.extension@1.0 \
+    com.motorola.hardware.biometric.fingerprint@1.1 \
     com.motorola.hardware.display.panel@1.0 \
     com.motorola.hardware.display.panel@1.1 \
     com.qti.chiusecaseselector \
@@ -3528,6 +3530,7 @@ PRODUCT_PACKAGES += \
     libBSTMultiExpoGainHDR \
     libBSTNodeUtils \
     libBSTSWAD \
+    libBSTbase_share \
     libPlatformValidatorShared \
     libSNPE \
     libSnpeHtpPrepare \
